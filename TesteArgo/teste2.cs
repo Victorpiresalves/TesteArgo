@@ -10,7 +10,12 @@ namespace TesteArgo
     {
         public List<int> CriarLista(int quantidade)
         {
-            return new List<int> { quantidade };
+            List<int> listaComQuantide = new List<int>();
+            for (int i = 0; i < quantidade; i++)
+            {
+                listaComQuantide.Add(i);
+            }
+            return listaComQuantide;
         }
 
         public List<int> OrdenarLista(params int[] valores)
