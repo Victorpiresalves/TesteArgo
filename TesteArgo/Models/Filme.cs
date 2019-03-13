@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TesteArgo.Api.Models;
 
 namespace TesteArgo.Models
 {
@@ -15,7 +16,7 @@ namespace TesteArgo.Models
         /// <summary>
         /// Year
         /// </summary>
-        public int? Ano { get; set; }
+        public string Ano { get; set; }
         /// <summary>
         /// imdbID
         /// </summary>
@@ -24,5 +25,24 @@ namespace TesteArgo.Models
         /// Poster
         /// </summary>
         public string Imagem { get; set; }
+
+        public Filme Parse(SearchValues searchValues)
+        {
+            return new Filme
+            {
+                ID = searchValues.imdbID,
+                Titulo = searchValues.Title,
+                Ano = searchValues.Year,
+                Imagem = searchValues.Poster,
+            };
+        }
+
+        public List<Filme> Parse(List<SearchValues> listSearchValues)
+        {
+            List<Filme> listaDeFilmes = new List<Filme>();
+            listSearchValues.ForEach(s => listaDeFilmes.Add(Parse(s)));
+
+            return listaDeFilmes;
+        }
     }
 }

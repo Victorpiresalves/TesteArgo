@@ -67,3 +67,6 @@ D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveA
 D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
 D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
 D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.xml
