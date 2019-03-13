@@ -56,6 +56,8 @@
   <ItemGroup>
     <Compile Include="Api\Models\SearchObject.cs" />
     <Compile Include="Api\OmdbAPI.cs" />
+    <Compile Include="Business\Adapter\DestinoAdapter.cs" />
+    <Compile Include="Business\DAL\DestinoDAL.cs" />
     <Compile Include="exemplo.cs" />
     <Compile Include="Models\Destino.cs">
       <DependentUpon>Model1.tt</DependentUpon>

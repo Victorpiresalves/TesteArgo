@@ -13,7 +13,7 @@ namespace TesteArgo.test
         teste4 classeTeste = new teste4();
 
         [TestMethod]
-        public void teste4_ListarFilmes()
+        public void teste4_ListarDestino()
         {
             var resultado = classeTeste.ListarDestino();
 

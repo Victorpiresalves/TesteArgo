@@ -72,3 +72,6 @@ D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.pdb
 D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.xml
 D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\EntityFramework.dll
 D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\EntityFramework.xml
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.dll.config
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\EntityFramework.SqlServer.xml

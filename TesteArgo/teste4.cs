@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TesteArgo.Business.Adapter;
 using TesteArgo.Models;
 
 namespace TesteArgo
@@ -32,7 +33,7 @@ namespace TesteArgo
         /// <returns></returns>
         public List<Destino> ListarDestino()
         {
-            return null;
+            return new DestinoAdapter().ListarDestino();
         }
 
         public Destino buscarPorId(int id)
