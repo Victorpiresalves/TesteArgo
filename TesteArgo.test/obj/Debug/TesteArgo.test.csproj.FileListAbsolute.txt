@@ -48,3 +48,22 @@ C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\Tes
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CopyComplete
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projetos\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+D:\Projetos\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb

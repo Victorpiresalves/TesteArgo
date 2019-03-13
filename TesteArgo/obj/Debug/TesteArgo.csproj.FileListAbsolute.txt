@@ -12,3 +12,10 @@ C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteAr
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe.config
+D:\Projetos\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe
+D:\Projetos\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.pdb
+D:\Projetos\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+D:\Projetos\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.exe
+D:\Projetos\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.pdb

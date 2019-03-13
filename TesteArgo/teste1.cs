@@ -10,17 +10,22 @@ namespace TesteArgo
     {
         public int Somar(int n1, int n2)
         {
-            return (n1+n2);
+            return (n1 + n2);
         }
 
         public int Subtrair(int n1, int n2)
         {
-            return 0;
+            return (n1 - n2);
         }
 
         public decimal Media(params int[] valores)
         {
-            return 0;
+            int resultado = 0;
+            for (int i = 0; i < valores.Count(); i++)
+            {
+                resultado = resultado + valores[i];
+            }
+            return (resultado / valores.Count());
         }
 
     }
