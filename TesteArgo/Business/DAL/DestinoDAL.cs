@@ -14,5 +14,10 @@ namespace TesteArgo.Business.DAL
         {
             return _testecoreEntities.Destino.ToList();
         }
+
+        public Destino RetornarDestinoById(int id)
+        {
+            return _testecoreEntities.Destino.Where(x => x.DestinoId == id).FirstOrDefault();
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace TesteArgo.Business.Adapter
         {
             return _destinoDAL.ListarDestino();
         }
+
+        public Destino RetornarDestinoById(int id)
+        {
+            return _destinoDAL.RetornarDestinoById(id);
+        }
     }
 }

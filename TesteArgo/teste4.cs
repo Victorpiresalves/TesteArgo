@@ -38,7 +38,7 @@ namespace TesteArgo
 
         public Destino buscarPorId(int id)
         {
-            return null;
+            return new DestinoAdapter().RetornarDestinoById(id);
         }
     }
 }
